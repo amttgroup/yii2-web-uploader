@@ -1,5 +1,5 @@
 {
-  "name": "kriss/yii2-web-uploader",
+  "name": "amttgroup/yii2-web-uploader",
   "description": "webuploader for Yii2 http://fex.baidu.com/webuploader/",
   "type": "yii2-extension",
   "keywords": [
@@ -12,8 +12,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "kriss",
-      "email": "462679766@qq.com"
+      "name": "amtt",
+      "email": "amttgroup@qq.com"
     }
   ],
   "require": {
@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "kriss\\webUploader\\": "src"
+      "amttgroup\\webUploader\\": "src"
     }
   }
 }
